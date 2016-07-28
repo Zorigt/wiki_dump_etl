@@ -17,9 +17,12 @@ Map music artists who are mentioned on wiki pages of other music artists.
 The raw date is wiki dump XML file. It contains all wiki page articles including music artists. 
 
 #Data Transformations
-The wiki dump XML file contains tags for musicians. Therefore, the first step is to parse through the XML ong page tags and stream each page through Kafka. Afte Kafka, the data is then further refined to select wiki pages that include musicician and singer tags. 
+The wiki dump XML file contains tags for musicians. Therefore, the first step is to parse through the XML's page tags and stream each page tag through Kafka. Kafka then refines the page tags to select wiki pages that only include singer tags within the page tags. Kafka sends the XML page tags to HDFS and Apache Spark. HDFS store the logs and Spark further processes the singer pages into noSQL table and stores the table into Cassandra. Once the data is in Cassandra, then do the mapping of music artists with other singers who are mentioned on the wiki pages. 
 
 #Schemas
++-------------+----------------+----------------+------+
+| artist name | other artist 1 | other artist 2 | .... |
++-------------+----------------+----------------+------+
 Work in progress
 
 #Live Demo
