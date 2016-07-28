@@ -2,13 +2,13 @@
 
 #Table of Contents
 
-*Introduction
-*Data Set
-*Data Transformations
-*Schemas
-*Live Demo
-*Presentation Deck
-*Instructions to Run this Pipeline
+* Introduction
+* Data Set
+* Data Transformations
+* Schemas
+* Live Demo
+* Presentation Deck
+* Instructions to Run this Pipeline
 
 #Introduciton
 Map music artists who are mentioned on each other's wiki page
