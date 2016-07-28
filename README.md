@@ -1,4 +1,4 @@
-# Map Music Artists
+# Map Music Artists in Wikipedia
 
 #Table of Contents
 
