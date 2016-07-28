@@ -2,8 +2,8 @@
 
 #Table of Contents
 
-* Introduction
-* Data Set
+* [Introduction]
+* [Data Set]
 * Data Transformations
 * Schemas
 * Live Demo
