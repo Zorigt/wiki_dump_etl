@@ -3,12 +3,12 @@
 #Table of Contents
 
 * [Introduction](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#introduciton)
-* [Data Set](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#)
-* [Data Transformations](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#)
-* [Schemas](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#)
-* [Live Demo](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#)
-* [Presentation Deck](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#)
-* [Instructions to Run this Pipeline](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#)
+* [Data Set](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#data-set)
+* [Data Transformations](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#data-transformations)
+* [Schemas](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#schemas)
+* [Live Demo](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#live-demo)
+* [Presentation Deck](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#presentation-deck)
+* [Instructions to Run this Pipeline](https://github.com/Zorigt/wiki_dump_etl/blob/master/README.md#instructions-to-run-this-pipeline)
 
 #Introduciton
 Map music artists who are mentioned on wiki pages of other music artists. 
