@@ -2,7 +2,7 @@
 
 #Table of Contents
 
-Introduction
+*Introduction
 *Data Set
 *Data Transformations
 *Schemas
