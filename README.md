@@ -13,7 +13,7 @@
 #Introduciton
 Map music artists who are mentioned on wiki pages of other music artists. 
 
-#Date Set
+#Data Set
 The raw date is wiki dump XML file. It contains all wiki page articles including music artists. 
 
 #Data Transformations
